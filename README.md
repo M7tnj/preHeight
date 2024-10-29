@@ -1,11 +1,11 @@
 # preHeight
-preHeight is an R package that predicts the height of people with desired age in desired country based on training a neural network model.
+preHeight is an R package that predicts the height of people with desired school-age in desired country based on training a neural network model.
 
 Package: preHeight
 
 Title: Height Prediction
 
-Description: preHeight is a prediction package based on neural networks which takes recorded data from 1985 to 2019 to train the model and output the value for desired year in form of plots.
+Description: preHeight is a prediction package based on neural networks which takes recorded data from 1985 to 2019(DOI: 10.1016/S0140-6736(20)31859-6) to train the model and output the value for desired year in form of plots.
 
 Version: 1.0.0
 
@@ -38,3 +38,4 @@ Depends:
 LazyData: true
 
 SystemRequirements: TensorFlow (https://www.tensorflow.org/)
+
