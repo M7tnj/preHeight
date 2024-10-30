@@ -1,5 +1,5 @@
 # preHeight
-preHeight is an R package that predicts the height of people with desired school-age in desired country based on training a neural network model.
+preHeight is a R package that predicts the height of people with desired school-age in desired country based on training a neural network model.
 
 Package: preHeight
 
